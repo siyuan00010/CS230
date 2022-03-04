@@ -4,13 +4,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Trello Board Link
 https://trello.com/b/fT7UYtWX/kanban-template
-    - Each user story has a label that tells its priority
-    - Each label is color coded:
-        - Priority 1 is red
-        - Priority 2 is orange
-        - Priority 3 is yellow
-        - Priority 4 is green
-        - Priority 5 is blue
+- Each user story has a label that tells its priority
+- Each label is color coded:
+    - Priority 1 is red
+    - Priority 2 is orange
+    - Priority 3 is yellow
+    - Priority 4 is green
+    - Priority 5 is blue
 
 ## Google Drive Link
 https://drive.google.com/drive/folders/1EGW54MMR2cIu56zLfIKc87R1fh5pDmYG?usp=sharing
