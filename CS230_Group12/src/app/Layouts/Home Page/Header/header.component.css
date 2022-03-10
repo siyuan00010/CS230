@@ -1,0 +1,32 @@
+div.collapse.navbar-collapse{
+    position: relative;
+    left: 75%;
+    
+}
+
+/* @author Thomas Killian */
+/* lines 9 onward */
+
+.navbar-expand-lg
+{
+    background-color: lightskyblue;
+}
+
+.navbar-brand
+{
+    font-size: 200%;
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.navbar-nav
+{
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.bi-person-fill
+{
+    color: yellow;
+    size: 150%;
+}
